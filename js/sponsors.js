@@ -1,9 +1,9 @@
-var titleSponsor = [
+﻿var titleSponsor = [
     {
-        src: "sabio.jpg",
-        alt: "Sabio Enterprises, Inc.",
-        url: "www.sabio.la",
-        body: "Sabio is a top-rated coding bootcamp."
+        src: "mediacom.png",
+        alt: "MediaCom",
+        url: "www.mediacom.com",
+        body: "MediaCom helps brands unlock growth through media by applying our Systems Thinking approach. As part of WPP and GroupM, we have access to the richest data and most robust benchmarks in the business. Our success is underpinned by our belief “People First, Better Results” that if we invest in our people, we’ll deliver better results."
     }
 ];
 
