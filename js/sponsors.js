@@ -2,53 +2,53 @@
     {
         src: "mediacom.png",
         alt: "MediaCom",
-        url: "www.mediacom.com",
+        url: "mediacom.com",
         body: "MediaCom helps brands unlock growth through media by applying our Systems Thinking approach. As part of WPP and GroupM, we have access to the richest data and most robust benchmarks in the business. Our success is underpinned by our belief “People First, Better Results” that if we invest in our people, we’ll deliver better results."
     }
 ];
 
 var goldSponsors = [
   {
-      src: "careerarc.jpg",
-      alt: "CareerArc",
-      url: "www.careerarc.com",
-      body: "We're an HR technology company helping business leaders recruit and transition the modern workforce. Our social recruiting and modern outplacement solutions help thousands of organizations maximize their return on employer branding.",
-      positions: "Business Development Representative (full time)"
+      src: "FarApp.png",
+      alt: "FarApp",
+      url: "farapp.com",
+      body: "FarApp is SAAS e-commerce automation company. We began in 2004 as a one man operation pulling orders from Amazon and pushing them into NetSuite for a nominal subscription. Since that time as e-commerce and NetSuite have grown, so have we. We now connect to over 60 different channels and service hundreds of clients, automating every part of their e-commerce experience. We are trying to aggressively grow our team to meet our ongoing customer demands. We hope that you will be a great fit for our organization!",
   },
   {
-      src: "fabfitfun.jpg",
-      alt: "FabFitFun",
-      url: "fabfitfun.com",
-      body: "FabFitFun inspires happiness and personal growth through discovery. We're the #1 full-size subscription box, helping our members discover brands and products for a life well-lived. Our fast-growing subscription service reaches hundreds of thousands of women in the US and Canada, and our editorial content, videos, and social posts entertain millions of women around the world each month.",
-      positions: "Part-time Spring Paid Interns and Full-time Summer Interns for every department, Jr. Product Managers, Jr. Software Engineers, Jr. Javascript and Java Engineers, Account Management Coordinator, Marketing Coordinator"
+      src: "nimble.png",
+      alt: "Nimble",
+      url: "nimble.com",
+      body: "Nimble is the simple, smart CRM for Office 365 and G Suite teams."
   },
   {
-      src: "fair.jpg",
-      alt: "Fair",
-      url: "www.fair.com/",
-      body: "Fair is a FinTech company that provides a new way to shop, get approved and pay for your next car—all on your phone. It gives customers the freedom to drive the car they want for as long as they want, and the flexibility to turn it in at any time. Fair is headquartered in Santa Monica, California.",
-      positions: "Data Scientists, Python/Data Engineers, Mobile Developers"
+      src: "usaepay.png",
+      alt: "USAePay",
+      url: "usaepay.info",
+      body: "Payment solution for business owners to accept payment from clients"
   },
   {
-      src: "contactability.jpg",
-      alt: "Contactability",
-      url: "contactability.com",
-      body: "Contactability is a leading insurance ad-tech company focused on delivering targeted, high-intent traffic for our insurance clients.  We use proprietary customer acquisition software to connect in-market insurance consumers with our network of insurance agents and carrier partners nationwide. Contactability operates an innovative real-time bidding marketplace that gives our clients ability to target and optimize their marketing campaigns to maximize ROI.",
-      positions: "Marketing Interns, Software Engineering/Programmers, Account Managers, Content Writer/Blogger Intern, Account Executives and others"
+      src: "gumgum.png",
+      alt: "GumGum",
+      url: "gumgum.com",
+      body: "GumGum is an artificial intelligence company with a focus on computer vision. Our mission is to solve hard problems across a variety of industries by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serve a variety of industries from advertising to professional sports, with more to come."
   },
   {
-      src: "startupucla.png",
-      alt: "Starup UCLA",
-      url: "www.startupucla.com",
-      body: "Startup UCLA is a program and resource on campus for students interested in entrepreneurship. We provide free services to UCLA students, alumni, and staff such as a co-working space, consulting meetings, and events and workshops.",
-      positions: "Summer Accelerator Intern"
+      src: "NuORDER.png",
+      alt: "NuORDER",
+      url: "nuorder.com",
+      body: "NuORDER is a venture-backed, B2B eCommerce technology company revolutionizing the way the $130 billion wholesale business is done. Since 2011, we’ve offered a platform to empower brands and retailers to conduct their business in a smarter, modern, more efficient way and 100% online."
+  },
+ {
+      src: "disqo.png",
+      alt: "DISQO",
+      url: "disqo.com",
+      body: "DISQO is a consumer-first insights platform that connects what people say and do to provide unprecedented insights for the market research industry.  By engaging our first-party research audience to share their attitudes and behaviors, DISQO captures the highest quality data, empowering its clients to make confident decisions."
   },
   {
-      src: "voxelcloud.png",
-      alt: "VoxelCloud",
-      url: "voxelcloud.io",
-      body: "VoxelCloud is a leading startup in AI in medicine. We focus on providing automated diagnosis solutions based on medical images using AI. We have received 20+ million dollars funding so far from leading venture capitals like Sequoia Capital and Tencent Capital. Many major team members are from UCLA and we are also located in Westwood. We look for more amazing bruins to do amazing things together.",
-      positions: "Full time Machine Learning engineer."
+      src: "ephesoft.png",
+      alt: "Ephesoft",
+      url: "esphesoft.com",
+      body: "Ephesoft makes meaning out of unstructured data through document capture and extraction backed up by practical experience and solid technology. Ephesoft drives automation through the Cloud, and Ephesoft is committed to leading the market with revolutionary technology that combines content automation, AI and machine learning."
   }
 ];
 
