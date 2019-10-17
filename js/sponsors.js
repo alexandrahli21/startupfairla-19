@@ -122,7 +122,7 @@ var bronzeSponsors = [
   {
       src: "discotech.png",
       alt: "Discotech",
-      url: "https://www.discotech.me",
+      url: "www.discotech.me",
       body: "Discotech is the OpenTable for Nightlife. Our free mobile app and website make it easier for customers to experience 1000+ nightlife venues across 45+ cities."
   },
   {
